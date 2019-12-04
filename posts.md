@@ -1,6 +1,6 @@
 ---
-title: Post Archive
+title: Journal
 layout: posts
-permalink: /posts/
+permalink: /journal/
 entries_layout: list
 ---
