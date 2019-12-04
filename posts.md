@@ -1,6 +1,6 @@
 ---
 title: Journal
 layout: posts
-# permalink: /journal/ #
+permalink: /journal/ 
 entries_layout: list
 ---
