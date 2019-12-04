@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username:
 github_username:
-logo: "/assets/images/logo.png" # path of site logo, e.g. 
+logo: /jekyll-ftp/assets/images/logo.png # path of site logo, e.g. 
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
