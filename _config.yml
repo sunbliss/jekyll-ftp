@@ -17,7 +17,7 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: "/blog"
+baseurl: "/jekyll-ftp"
 url: "https://sunbliss.github.io"
 author:
   name:
@@ -38,7 +38,6 @@ algolia:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
