@@ -20,9 +20,9 @@ description:
 baseurl: /jekyll-ftp
 url: https://sunbliss.github.io
 author:
-  name:
-  twitter:
-  picture:
+  name: ftp
+  twitter: #
+  picture: /jekyll-ftp/assets/images/image-alignment-150x150.jpg
 twitter_username:
 github_username:
 logo: /jekyll-ftp/assets/images/image-alignment-150x150.jpg # path of site logo, e.g. 
