@@ -17,7 +17,7 @@ lang: en-US
 title: FTP
 email:
 description:
-baseurl: "/jekyll-ftp"
+baseurl: ""
 url: "https://sunbliss.github.io"
 author:
   name:
@@ -48,8 +48,8 @@ feed:
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
-paginate_path: /jekyll-ftp/page:num/
-permalink: /jekyll-ftp/:title/
+paginate_path: /page:num/
+permalink: /:title/
 
 # Exclude from processing.
 exclude:
