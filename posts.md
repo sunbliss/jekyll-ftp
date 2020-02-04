@@ -1,7 +1,7 @@
 ---
 title: Journal
 layout: posts
-permalink: /journal/:title/
+permalink: /journal/
 entries_layout: list
 paginate: true
 ---
